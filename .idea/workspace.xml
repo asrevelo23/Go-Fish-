@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
     <generated />
+=======
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Go_Fish_" targetName="Go_Fish_" />
+    </generated>
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -9,6 +16,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="e0869c1b-e8a4-49b7-bd51-e60dcd64ac8f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
@@ -39,6 +47,11 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/deck.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/deck.cpp" afterDir="false" />
+=======
+    <list default="true" id="dcb094dc-1344-4c1f-91b2-298e5d5f5831" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/card.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/card.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/player.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/player.cpp" afterDir="false" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,6 +60,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FUSProjectUsageTrigger">
     <session id="-1057719902">
       <usages-collector id="statistics.lifecycle.project">
@@ -55,31 +69,60 @@
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.12" value="1" />
           <entry key="project.opened" value="2" />
+=======
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FUSProjectUsageTrigger">
+    <session id="1228293573">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+<<<<<<< HEAD
           <entry key="cpp" value="1" />
+=======
+          <entry key="cpp" value="5" />
+          <entry key="h" value="3" />
+          <entry key="makefile" value="1" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+<<<<<<< HEAD
           <entry key="ObjectiveC" value="1" />
+=======
+          <entry key="ObjectiveC" value="8" />
+          <entry key="PLAIN_TEXT" value="1" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="cpp" value="66" />
+=======
+          <entry key="cpp" value="71" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+<<<<<<< HEAD
           <entry key="ObjectiveC" value="66" />
+=======
+          <entry key="ObjectiveC" value="71" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
+<<<<<<< HEAD
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/card.h">
@@ -91,6 +134,68 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+=======
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/card.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-408" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/card_demo.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-145" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deck.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/deck.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/makefile">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/go_fish.cpp">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player.h">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/card.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
             </state>
           </provider>
         </entry>
@@ -104,6 +209,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/deck.cpp" />
+<<<<<<< HEAD
+=======
+        <option value="$PROJECT_DIR$/go_fish.cpp" />
+        <option value="$PROJECT_DIR$/card.cpp" />
+        <option value="$PROJECT_DIR$/player.cpp" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
       </list>
     </option>
   </component>
@@ -114,6 +225,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="1905" />
     <option name="width" value="1950" />
     <option name="height" value="2055" />
@@ -135,6 +247,30 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+    </panes>
+=======
+    <option name="x" value="713" />
+    <option name="width" value="734" />
+    <option name="height" value="867" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Go_Fish_" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Go-Fish-" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,6 +312,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="e0869c1b-e8a4-49b7-bd51-e60dcd64ac8f" name="Default Changelist" comment="" />
       <created>1541453079374</created>
       <option name="number" value="Default" />
@@ -183,10 +320,19 @@
       <updated>1541453079374</updated>
       <workItem from="1541453087249" duration="43000" />
       <workItem from="1541453133567" duration="121000" />
+=======
+      <changelist id="dcb094dc-1344-4c1f-91b2-298e5d5f5831" name="Default Changelist" comment="" />
+      <created>1541452623970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541452623970</updated>
+      <workItem from="1541452625774" duration="736000" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="164000" />
   </component>
   <component name="ToolWindowManager">
@@ -196,6 +342,22 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+=======
+    <option name="totallyTimeSpent" value="736000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="713" y="0" width="734" height="867" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.050445102" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CMake" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -203,6 +365,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -212,6 +375,12 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+=======
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -221,6 +390,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/card.h">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -231,5 +401,55 @@
         </state>
       </provider>
     </entry>
+=======
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/makefile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deck.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deck.h">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="20" lean-forward="true" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go_fish.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card_demo.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-145" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/card.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-408" />
+      </provider>
+    </entry>
+>>>>>>> a458d42f9d49332396ba68224d4e31cb70c6def4
   </component>
 </project>
